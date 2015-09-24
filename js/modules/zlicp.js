@@ -1,0 +1,3 @@
+require(['zclip'],function(zclip){
+
+})
